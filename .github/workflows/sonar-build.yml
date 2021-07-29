@@ -2,7 +2,7 @@ name: Build
 on:
   push:
     branches:
-      - ci-setting
+      - ci-settings
   pull_request:
     types: [opened, synchronize, reopened]
 jobs:
