@@ -6,5 +6,6 @@ addons:
   sonarcloud:
     organization: "openlenalab"
 
-script:
-  - mvn -B sonar:sonar -DskipTests -Dsonar.projectKey=openlenalab_egovframe-simple-homepage-template
+#### Sonarcloud - openlenalab : jadeu3 needs 
+#script:
+#  - mvn -B sonar:sonar -DskipTests -Dsonar.projectKey=openlenalab_egovframe-simple-homepage-template
